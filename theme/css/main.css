@@ -1,0 +1,192 @@
+html {
+	overflow-y: scroll;
+}
+
+
+body {
+	background:#FAFAFA;
+	color: #222;
+	font-family: "Source Sans Pro", serif;
+	font-size: 1em;
+	text-decoration: none;
+}
+
+a {
+	color: #3a6f85;
+	text-decoration: none;
+}
+
+h1 a {
+	color: #222;
+	text-decoration: none;
+}
+
+h1 a:visited {
+	color: #222;
+	text-decoration: none;
+}
+
+h1 a:hover {
+	color: #666;
+}
+
+#page {
+	width: 37.62136em; /* 620/16 = this */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#header-container {
+	position: relative;
+	height: 5em;
+	border-bottom: 2px solid #222;
+}
+
+header {
+	margin-top: 0.3em; /* vertically centering troubles */
+	float: left;
+}
+
+nav {
+	margin-top: 0.275em; /* maybe should use js for this next time */
+	float: right;
+}
+
+#about {
+	width: 100px;
+	height: 32px;
+	background: url('/theme/img/user3.png') 0 0 no-repeat;
+}
+
+#about:hover {
+	background: url('/theme/img/user3-hover.png') 0 0 no-repeat;
+}
+
+#archives {
+	width: 92px;
+	height: 32px;
+	background: url('/theme/img/file.png') 0 0 no-repeat;
+}
+
+#archives:hover {
+	background: url('/theme/img/file-hover.png') 0 0 no-repeat;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	float: left;
+	margin-right: 1em;
+}
+
+li a {
+	display: block;
+}
+
+#content {
+	position: relative;
+	text-align: left;
+	line-height: 135%;
+	color: #444;
+}
+
+#content img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 75%;
+	color: #222;
+}
+
+h1 {
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+h1#header {
+	font-size: 2em;
+	line-height: 75%;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+	margin-top: .75em;
+	margin-bottom: 0.25em;
+}
+
+h2#title {
+	font-weight: normal;
+}
+
+h2#title a {
+	color: #222;
+}
+
+h2#title a:hover {
+	color: #666;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+#footer {
+	position: relative;
+	height: 8em;
+	text-align: center;
+}
+
+#footer h4 {
+	margin: 0px;
+	margin-top: 3.5em;
+}
+
+#footer a {
+	display: inline-block;
+	margin-top: 1.5em;
+	margin-left: 1.25em;
+	margin-right: 1.25em;
+}
+
+.mail {
+	width: 32px;
+	height: 32px;
+	background: url('/theme/img/mail.png') center top no-repeat;
+}
+
+.mail:hover {
+	background: url('/theme/img/mail-hover.png') center top no-repeat;
+}
+
+.tweet {
+	width: 32px;
+	height: 32px;
+	background: url('/theme/img/twitter2.png') center top no-repeat;
+}
+
+.tweet:hover {
+	background: url('/theme/img/twitter2-hover.png') center top no-repeat;
+}
+
+.linkedin {
+	width: 32px;
+	height: 32px;
+	background: url('/theme/img/linkedin.png') center top no-repeat;
+}
+
+.linkedin:hover {
+	background: url('/theme/img/linkedin-hover.png') center top no-repeat;
+}
