@@ -1,7 +1,20 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+html, body {
+	height: 100%;
+}
+
 html {
 	overflow-y: scroll;
 }
 
+blockquote {
+	margin-left: 2em;
+	margin-right: 2em;
+}
 
 body {
 	background:#FAFAFA;
@@ -9,6 +22,10 @@ body {
 	font-family: "Source Sans Pro", serif;
 	font-size: 1em;
 	text-decoration: none;
+}
+
+p {
+	margin: 1em 0px;
 }
 
 a {
@@ -31,9 +48,11 @@ h1 a:hover {
 }
 
 #page {
+	position: relative;
 	width: 37.62136em; /* 620/16 = this */
 	margin-left: auto;
 	margin-right: auto;
+	min-height: 100%;
 }
 
 
@@ -44,12 +63,12 @@ h1 a:hover {
 }
 
 header {
-	margin-top: 0.3em; /* vertically centering troubles */
+	margin-top: 1.75em; /* vertically centering troubles */
 	float: left;
 }
 
 nav {
-	margin-top: 0.275em; /* maybe should use js for this next time */
+	margin-top: 1.5em; /* maybe should use js for this next time */
 	float: right;
 }
 
@@ -91,6 +110,7 @@ li a {
 	text-align: left;
 	line-height: 135%;
 	color: #444;
+	padding-bottom: 8em;
 }
 
 #content img {
@@ -107,11 +127,15 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-size: 2.5em;
 	font-weight: bold;
+	margin-top: .5em;
+	margin-bottom: .5em;
 }
 
 h1#header {
 	font-size: 2em;
 	line-height: 75%;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 
 h2 {
@@ -144,7 +168,13 @@ h4 {
 }
 
 #footer {
-	position: relative;
+	position: absolute;
+	width: 100%;
+	bottom: 1em;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
 	height: 8em;
 	text-align: center;
 }
