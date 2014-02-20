@@ -25,6 +25,7 @@ body {
 }
 
 p {
+	font-family: "Source Sans Pro";
 	margin: 1em 0px;
 }
 
@@ -115,6 +116,7 @@ li a {
 
 #content img {
 	display: block;
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 }
