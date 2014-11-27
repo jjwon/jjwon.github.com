@@ -1,0 +1,139 @@
+/* *********************************
+           Variables
+  ********************************** */
+/* **********************
+   Navbar Style Overrides
+  *********************** */
+/* line 15, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.navbar-inverse {
+  background: rgba(62, 195, 246, 0);
+  border-bottom: none; }
+
+/* line 20, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.navbar-inverse .navbar-toggle {
+  border: 1px solid #333;
+  border-color: rgba(255, 255, 255, 0.7); }
+
+/* line 25, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: transparent; }
+  @media (max-width: 767px) {
+    .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+      background: rgba(255, 255, 255, 0.75); } }
+
+/* line 32, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.navbar-inverse .navbar-nav > li > a {
+  color: #333; }
+
+/* line 36, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #333;
+  font-weight: 700; }
+
+/* line 43, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+  color: white;
+  background-color: #333;
+  font-weight: 400; }
+
+/* line 49, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+ul.nav > li {
+  font-size: 16px; }
+
+/* *********************************
+           Toolbar Logo
+  ********************************** */
+/* line 56, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.small-logo-container {
+  padding-top: 50px;
+  height: 50px;
+  overflow: hidden; }
+
+/* line 62, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.small-logo {
+  color: white;
+  font-size: 2.5em;
+  padding-bottom: 2px; }
+
+/* *********************************
+           Big Logo
+  ********************************** */
+/* line 71, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.big-logo-row {
+  background: #6cdfea; }
+  /* line 74, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+  .big-logo-row .big-logo-container {
+    padding-top: 50px; }
+  /* line 78, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+  .big-logo-row h1 {
+    color: #333;
+    font-size: 4em;
+    margin: 0;
+    padding: 0 0 15px 0; }
+    @media (min-width: 400px) {
+      .big-logo-row h1 {
+        font-size: 4.5em; } }
+    @media (min-width: 440px) {
+      .big-logo-row h1 {
+        font-size: 5.5em; } }
+    @media (min-width: 500px) {
+      .big-logo-row h1 {
+        font-size: 6.5em; } }
+    @media (min-width: 630px) {
+      .big-logo-row h1 {
+        font-size: 7.5em; } }
+    @media (min-width: 768px) {
+      .big-logo-row h1 {
+        font-size: 9em;
+        padding-bottom: 30px; } }
+    @media (min-width: 1200px) {
+      .big-logo-row h1 {
+        font-size: 12em; } }
+
+/* *********************************
+         Regular Containers
+  ********************************** */
+/* line 96, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.container-content {
+  padding-top: 50px;
+  max-width: 720px; }
+
+/* *********************************
+         General Overrides
+  ********************************** */
+/* line 105, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+html, body {
+  font-family: 'Open Sans'; }
+
+/* line 109, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+h1, h2, h3, h4, h5, h6 {
+  color: #333; }
+
+/* line 113, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+h1 {
+  font-family: 'Helvetica Neue'; }
+
+/* *********************************
+         Home Page
+  ********************************** */
+/* line 121, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.headline {
+  padding: 0.5em; }
+
+/* line 125, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+p {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 18px;
+  color: #555;
+  line-height: 1.8em; }
+
+/* line 133, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.blurb {
+  padding-bottom: 0.75em; }
+
+/* line 137, /Users/jason/development/website/tmp/tree_merger-tmp_dest_dir-z8N9RdrG.tmp/app/styles/app.scss */
+.caption {
+  font-size: 16px; }
+
+/*# sourceMappingURL=website.css.map */
