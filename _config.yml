@@ -1,0 +1,13 @@
+# Site settings
+title: Jason Won
+email: jason.j.won@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about programming, design, self-improvement, and other miscellaneous things by Jason Won.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jjwon.com" # the base hostname & protocol for your site
+twitter_username: jasonjwon
+github_username:  jjwon
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
