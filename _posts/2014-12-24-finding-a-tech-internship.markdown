@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding a Tech Internship: Getting Interviews"
 date:   2014-12-24
-categories: technology career
+categories: blog
 ---
 
 ## Introduction
