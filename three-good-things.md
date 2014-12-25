@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Three Good Things
 permalink: /three-good-things/
 ---
+
+# Three Good Things
 
 [Three Good Things](http://www.actionforhappiness.org/take-action/find-three-good-things-each-day) is an exercise I decided to start on after being assigned it while taking [GG101x](https://courses.edx.org/courses/course-v1:BerkeleyX%2BGG101x-2%2B1T2015/info), a course about the science of happiness offered on [edX](https://edx.org).  More or less, the idea is to list three positive things that happened in your day, and reflect on what caused it and why it made you feel happy.  The motivation is to "notice, remember, and savor the better things in life".  I'm very curious about it and since it only takes about 10 minutes a day, I decided to try it out for a little bit.
 
@@ -14,7 +15,7 @@ I haven't been updating this too much in the past few days, which is kind of bad
 
 2.  Sometime this afternoon I got up and stretched, and felt really sore.  It's a nice reminder that (hopefully) working out will pay off dividends.
 
-3.  A friend who I sort of gave up on and pinned as someone who only reaches out when it's necessary or convenient got boba with me.  Maybe I jumped to conclusions a little too fast."
+3.  A friend who I sort of gave up on and pinned as someone who only reaches out when it's necessary or convenient got boba with me.  Maybe I jumped to conclusions a little too fast.
 
 ### 12/10/14
 
@@ -38,7 +39,9 @@ I haven't been updating this too much in the past few days, which is kind of bad
 
 2.  Worked out right after, and thinking about things that have transpired recently, I realized again that I really do love working out, and as part of my motion to start doing things for me, not for others, I should really be spending more time at the gym and try to really push myself.  I've gotten pretty comfortable with my routine and I haven't been making that much progress.  It's time to overhaul it a little bit, or just try to deload everything and then go hard again.
 
-3.  Ate some crackers with pepperoni and salami, and it tasted *really* good."
+3.  Ate some crackers with pepperoni and salami, and it tasted *really* good.
+
+Yeah, I kind of ran out of good ideas.  This is a little harder than I thought.
 
 ### 12/5/14
 
