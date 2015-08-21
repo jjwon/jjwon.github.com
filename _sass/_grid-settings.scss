@@ -1,0 +1,8 @@
+@import "neat/neat-helpers";
+
+$max-width: em(960);
+
+$first-breakpoint-value: 400px;
+$second-breakpoint-value: 700px;
+$medium-viewport: new-breakpoint(min-width $first-breakpoint-value max-width $second-breakpoint-value 4);
+$large-viewport: new-breakpoint(min-width $second-breakpoint-value + 1 12);

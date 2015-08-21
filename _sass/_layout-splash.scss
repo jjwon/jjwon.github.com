@@ -1,0 +1,104 @@
+// Splash
+.spacer-top {
+  @include span-columns(12);
+  height: em(56px);
+}
+
+.splash-text-title {
+  // font-family: $accent-font-family;
+  font-size: $splash-title-size;
+  margin: 0;
+  margin-top: em(-4px);
+}
+
+.splash-text-sub {
+  color: $light-font-color;
+  font-style: italic;
+  letter-spacing: -.5px;
+  margin: 0;
+  margin-left: em(-2px);
+}
+
+.splash-icons {
+  color: $heading-font-color;
+  margin: em(6px);
+  margin-top: em(10px);
+}
+
+.splash-icons:first-of-type {
+  margin-left: 0;
+}
+
+.splash-icons:hover {
+  color: $link-font-color;
+}
+
+.splash-text-wrapper {
+  font-size: em($splash-font-size);
+
+  .splash-left {
+    @include media($medium-viewport) {
+      @include span-columns(4 of 4);
+    }
+    @include media($large-viewport) {
+      @include span-columns(4 of 12);
+    }
+  }
+
+  .splash-middle,
+  .splash-right {
+    @include media($medium-viewport) {
+      @include span-columns(4 of 4);
+    }
+    @include media($large-viewport) {
+      @include span-columns(4 of 12);
+    }
+    .splash-text-desc {
+      margin: 0;
+    }
+  }
+}
+
+.splash-spacer-bottom {
+  @include media($medium-viewport) {
+    @include span-columns(4 of 4);
+  }
+  @include media($large-viewport) {
+    @include span-columns(12 of 12);
+  }
+  height: 1em;
+}
+
+// Posts
+.post-list {
+  @include span-columns(12);
+  margin-top: 1.5em;
+  padding: 0;
+}
+
+.post-item {
+  @include media($medium-viewport) {
+    @include span-columns(2 of 4);
+    @include omega(2n);
+  }
+  @include media($large-viewport) {
+    @include span-columns(4 of 12);
+    @include omega(3n);
+  }
+  text-align: center;
+}
+
+.post-item:hover {
+  opacity: .5;
+}
+
+.post-image {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.post-link {
+  color: $base-font-color;
+  font-size: em($post-title-size);
+}

@@ -3,33 +3,31 @@
 ---
 @charset "utf-8";
 
+// Variables
+// Thanks to https://twitter.com/twahlin and http://femmebot.github.io/google-type/ for the font pairing idea.
 
+$base-font-family: Ovo, Times, serif;
+$accent-font-family: Muli, Lato, Helvetica, Arial, sans-serif;
+$base-font-size: 16px;
+$post-title-size: 16px;
+$splash-title-size: 2.5em;
+$splash-font-size: 14px;
+$base-line-height: 1.5;
+$heading-font-color: #222;
+$base-font-color: #444;
+$light-font-color: lighten($base-font-color, 15%);
+$link-font-color: desaturate(#2eccd1, 35%);
+$page-width: 650px;
 
-// Our variables
-$base-font-family: "Open Sans", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.65;
-
-$spacing-unit:     30px;
-
-$text-color:       #222;
-$background-color: #fdfdfd;
-$brand-color:      rgba(108,223,234,1);
-$brand-color-dark: darken($brand-color, 35%);
-$brand-color-darker: darken($brand-color, 45%);
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    720px;
-
+// Mixins
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "bourbon/bourbon",
+        "grid-settings",
+        "neat/neat",
         "base",
-        "layout",
-        "jekyll-github"
+        "layout-splash",
+        "layout-page",
+        "syntax-highlighting"
 ;
