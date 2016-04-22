@@ -1,15 +1,71 @@
----
-layout: home
----
+<html>
+  <head>
+    <!-- META -->
+    <meta charset="UTF-8" />
+    <meta name="description" content="" />
+    <meta name="author" content="Jason Won" />
 
-<ul class="post-list no-list-style">
-  {% for post in site.posts %}
-    <li class="post-item">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-        <img class="post-image" src="{{ post.image | prepend: site.baseurl }}">
-        <h3 class="post-heading">{{ post.title }}</span>
-      </a>
-      <!-- <p>{{ post.content }}</p> -->
-    </li>
-  {% endfor %}
-</ul>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- TITLE -->
+    <title>
+      Jason Won
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/base.css" media="screen" />
+
+    <!-- ICON -->
+    <link rel="shortcut icon" href="images/favicon.png">
+  </head>
+
+  <body>
+    <div class="content-container">
+      <div class="content">
+
+        <div class="content-block intro">
+          <h1>ᕕ( ᐛ )ᕗ</h1>
+
+          <h2>Jason Won</h2>
+
+          <p>I build stuff that hopefully makes people's lives better.</p>
+        </p>
+        </div>
+
+        <div class="content-block about">
+          <h4>About</h4>
+
+          <p>Currently at <a href="https://operator.com">Operator</a>, previously at <a href="https://linkedin.com">LinkedIn</a>, and before that, I studied at <a href="https://berkeley.edu">UC Berkeley</a>.</p>
+
+          <p>Some of my interests include learning, fitness, and foreign languages.</p>
+        </div>
+
+        <div class="content-block work">
+          <h4>Work</h4>
+
+          <ul>
+            <li>At Operator, I launched <a href="https://operator.com">the new website</a>, UberRUSH holiday integration, and our Facebook Messenger experience.</li>
+
+            <li>At LinkedIn, I revised ETL pipelines to ingest traffic from the new mobile app, and built a web app to prototype data transformation workflows.</li>
+
+            <li>When I was a student, I was in a club called <a href="https://calblueprint.org">Blueprint</a> which built apps for nonprofits. I worked on an Android app to make event check-in electronic instead of on-paper for <a href="https://projecthomelessconnect.org/">Project Homeless Connect</a>, and led a group of deveopers to build a web app to coordinate food recovery efforts for <a href="https://foodshift.net">Food Shift</a>.</li>
+
+            <li>I still love the first side project I ever built, which was for my first hackathon. It's an app to find trending Instagram photos from different locations dubbed <a href="http://viewfinder.herokuapp.com/">Viewfinder</a>. My friend and I struggled for pretty much all 24 hours, but it was immensely rewarding.</li>
+          </ul>
+        </div>
+
+        <div class="content-block contact">
+          <h4>Contact</h4>
+          <p class="links">
+            <a href="mailto:hello@jjwon.com">email</a> &nbsp;
+            <a href="https://github.com/jjwon0">github</a> &nbsp;
+            <a href="https://linkedin.com/in/jjwon">linkedin</a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </body>
+</html>
