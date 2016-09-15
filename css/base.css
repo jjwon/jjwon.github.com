@@ -23,7 +23,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a, a:visited {
-  color: #1756e8;
+  color: #1756E8;
+}
+
+.alert {
+  color: #D9572D
 }
 
 .content-container {
