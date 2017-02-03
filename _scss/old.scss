@@ -1,0 +1,57 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inconsolata', Courier, monospace;
+  line-height: 1.7;
+  color: #444444;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+}
+
+a, a:visited {
+  color: #1756E8;
+}
+
+.alert {
+  color: #D9572D
+}
+
+.content-container {
+  padding: 8% 10%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.content-block {
+  max-width: 600px;
+}
+
+@media only screen and (max-width: 800px) {
+  .content-container {
+    padding: 5% 10% 8%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    line-height: 1.5;
+  }
+
+  .content-container {
+    padding: 5% 5%;
+  }
+}
