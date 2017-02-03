@@ -1,8 +1,7 @@
-
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Inconsolata', Courier, monospace;
+  font-family: $main-font;
   line-height: 1.7;
   color: $text-color;
 }
