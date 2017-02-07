@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-# ᕕ( ᐛ )ᕗ
 
-I build stuff that hopefully makes people's lives better.
+I build stuff that hopefully makes people's lives better. ᕕ( ᐛ )ᕗ
 
 #### About
 
@@ -30,3 +29,11 @@ Here are some things I've done.
 - With some spare time after work, I added a feature to one of Khan Academy's open-source projects, [live-editor](https://github.com/Khan/live-editor), and they wrote [a short blog post](http://cs-blog.khanacademy.org/2015/10/new-helpful-messages-for-our-webpage.html) about the work I did.
 - When I was a student, I was in a club called [Blueprint](https://calblueprint.org) which built apps for nonprofits. I worked on an Android app to make event check-in electronic instead of on-paper for [Project Homeless Connect](https://projecthomelessconnect.org/), and led a group of deveopers to build a web app to coordinate food recovery efforts for [Food Shift](http://foodshift.net).
 - At my first hackathon, my roommate and I built an app to find trending Instagram photos from different locations dubbed [Viewfinder](https://viewfinder.herokuapp.com/). It was the first web app either of us had ever built, and we struggled for pretty much all 24 hours, but it was immensely rewarding.
+
+#### Contact
+
+Let's chat! Email is the best way: hello [at] jjwon [dot] com
+
+[instagram](https://instagram.com/jjwon0)
+[github](https://github.com/jjwon0)
+[linkedin](https://linkedin.com/jjwon)
