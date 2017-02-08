@@ -1,5 +1,5 @@
-<header>
-  <div>
+<header class="default-header">
+  <nav>
     <a href="{{ "/" | relative_url}}">Home</a>
     {% for page in site.pages %}
     {% if page.title %}
@@ -8,5 +8,5 @@
     </a>
     {% endif %}
     {% endfor %}
-  </div>
+  </nav>
 </header>

@@ -2,15 +2,17 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
   <body>
-    <header>
-      <h1>{{ site.title | escape }}</h1>
-      {% for page in site.pages %}
-      {% if page.title %}
-      <a href="{{ page.url | relative_url }}">
-        {{ page.title | escape }}
-      </a>
-      {% endif %}
-      {% endfor %}
+    <header class="home-page-header">
+      <nav>
+        <h1>{{ site.title | escape }}</h1>
+        {% for page in site.pages %}
+        {% if page.title %}
+        <a href="{{ page.url | relative_url }}">
+          {{ page.title | escape }}
+        </a>
+        {% endif %}
+        {% endfor %}
+      </nav>
     </header>
 
     <main>

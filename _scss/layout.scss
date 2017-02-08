@@ -5,3 +5,28 @@ body {
   line-height: 1.7;
   color: $text-color;
 }
+
+main {
+  @extend %centered;
+}
+
+nav {
+  @extend %centered;
+}
+
+a, a:visited {
+  color: $link-color;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $header-color;
+}
+
+.default-header {
+  margin-top: 100px;
+}
+
+.home-page-header {
+  margin-top: 100px;
+}

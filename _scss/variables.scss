@@ -1,5 +1,14 @@
 // Colors
 $text-color: #444444;
+$link-color: #1756E8;
+$header-color: #222222;
 
 // Fonts
 $main-font: 'DejaVu Sans Mono', Courier, monospace;
+
+// Abstract classes
+%centered {
+  padding: 0 10%;
+  max-width: 900px;
+  margin: 0 auto;
+}
