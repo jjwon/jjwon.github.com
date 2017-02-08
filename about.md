@@ -8,9 +8,7 @@ I build stuff that hopefully makes people's lives better. ᕕ( ᐛ )ᕗ
 
 #### About
 
-I'm currently looking for a new role in healthcare or education software.
-
-Previously, I was at [Operator](https://operator.com), and before that, [LinkedIn](https://linkedin.com)) and [UC Berkeley](https://berkeley.edu)).
+I'm currently looking for a new role in healthcare or education software. Previously, I was at [Operator](https://operator.com), and before that, [LinkedIn](https://linkedin.com) and [UC Berkeley](https://berkeley.edu).
 
 Some of my interests include learning, photography, fitness, and foreign languages.
 
@@ -32,7 +30,7 @@ Here are some things I've done.
 
 #### Contact
 
-Let's chat! Email is the best way: hello [at] jjwon [dot] com
+Let's chat! Email is the best way -- reach me at hello [at] jjwon [dot] com
 
 [instagram](https://instagram.com/jjwon0)
 [github](https://github.com/jjwon0)
