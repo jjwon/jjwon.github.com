@@ -12,3 +12,10 @@ $main-font: 'DejaVu Sans Mono', Courier, monospace;
   max-width: 900px;
   margin: 0 auto;
 }
+
+@media only screen and (max-width: 400px) {
+  %centered {
+    padding: 0 5%;
+  }
+}
+
