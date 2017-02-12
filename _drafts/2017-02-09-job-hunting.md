@@ -1,5 +1,3 @@
----
-layout: post
 title: "Job Hunting"
 date: 2017-02-09 14:05:00 -0800
 permalink: /job-hunting/
@@ -22,11 +20,11 @@ Both of these are very serious problems for job seekers. The former is particula
 
 I later found that both of these of these can be greatly ameliorated by having a great network. A network can help connect you with interesting opportunities and validate your skills through recommendations and referrals. Tapping your network does a lot of good overall. When it come to the seeker, opportunities that come through your network already have had one pass of validation, making them much more worthwhile to investigate, and usually come with some validation of your skills. It also presents an opportunity to strengthen bonds that already exist. Of the three final companies involved in my job hunt this time around, two of them were opportunities that I wouldn't have been aware of if it wasn't for people in my network.
 
-In fact, what I've come to learn is that most likely in the future (possibly even next time I'm looking for a job), I won't be doing much, if any applying. I expect that any opportunities I find interesting will come via inbound or outbound from my network -- awesome people looking for engineers like me, or me interested in awesome work I see going on.
-
 I was looking for a combination of the following things in my search:
 
-- A company that is strongly mission-driven, operating in either the healthcare or education spaces. This was my only hard filter. Although there are companies with a strong social impact working in other spaces, I decided that for now, I wanted to filter on my own personal bias in addition.
-- Other employees I enjoy being around. This goes for people I think I'd work well with as well as people I would be down to hang out with in my free time.
+- A company that was strongly mission-driven, operating in either the healthcare or education spaces. This was my only hard filter. Although there are companies with a strong social impact working in other spaces, I decided that for now, I wanted to filter on my own personal bias in addition.
+- A company with people I enjoy being around.
 - A company with a concrete and sensible business plan. This is something that sounds obvious but hasn't really received appropriate attention until the recent contraction of the tech bubble. Not until I had the chance to chatting with a friend of a friend about edtech and more generally, making a social impact with tech, did this really click. [Josh](https://www.linkedin.com/in/josh-wiseman-97b50028) decided to work in edtech after seeing Facebook grow enormously, and joined Remind and Alt School afterwards. Remind is a great company which makes a product that has had great traction in the classroom thus far, being really popular with teachers and students, but has raised a lot of venture capital, and doesn't really have a great monetization plan. They acquired lots of users, but the product is a simple wrapper over SMS -- it's not something that isn't reproducible nor something that has a clear monetization plan. The combination of these two factors means that now they're bleeding out slowly, and unless they are able to correct their course, they will die out, and won't be able to continue their great impact on classrooms thus far. The conclusion here is that the social impact a company can make is directly tied to the stability and lifeline of the company itself. A company pushing up daisies cannot help anyone.
-- A diverse company. For now, I'm an engineer, and love building things. However, I'm not sure what's the best way for me to contribute to a venture; perhaps I'm actually more effective as a manager, or a product designer, or as a salesperson. A diverse company can give me exposure to different things, which can help me narrow down what I am most adept at.
+- A diverse company. For now, I'm an engineer, and love building things. However, I'm not sure what's the best way for me to contribute to a venture; perhaps I'm actually more effective as a manager, or a product designer, or as a salesperson. A diverse company can give me exposure to different things.
+
+
