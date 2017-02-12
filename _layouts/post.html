@@ -8,9 +8,6 @@ layout: default
       {{ page.title | escape }}
     </h1>
     <p>
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%b %-d, %Y" }}
-      </time>
       {% if page.author %}
         • <span>
           {{ page.author }}
