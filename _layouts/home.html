@@ -5,14 +5,17 @@
     <header class="home-page-header">
       <nav>
         <h1>{{ site.title | escape }}</h1>
-        {% for page in site.pages %}
-        {% if page.title %}
-        <a href="{{ page.url | relative_url }}">
-          {{ page.title | escape }}
-        </a>
-        &nbsp; &nbsp;
-        {% endif %}
-        {% endfor %}
+        <ul class="header-links">
+          {% for page in site.pages %}
+          {% if page.title and site.header_pages contains page.title %}
+          <li class="header-link">
+            <a href="{{ page.url | relative_url }}">
+              {{ page.title | escape }}
+            </a>
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
       </nav>
     </header>
 
