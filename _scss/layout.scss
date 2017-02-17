@@ -46,10 +46,20 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
 }
 
-.default-header {
+%header {
   margin-top: 100px;
 }
 
+@media only screen and (max-width: 400px) {
+  %header {
+    margin-top: 40px;
+  }
+}
+
+.default-header {
+  @extend %header;
+}
+
 .home-page-header {
-  margin-top: 100px;
+  @extend %header;
 }
