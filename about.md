@@ -8,7 +8,7 @@ I build stuff that hopefully makes people's lives better. ᕕ( ᐛ )ᕗ
 
 #### About
 
-I'm currently looking for a new role in healthcare or education software. Previously, I was at [Operator](https://operator.com), and before that, [LinkedIn](https://linkedin.com) and [UC Berkeley](https://berkeley.edu). A copy of my resume can be found [here]({% link resume.md %}).
+I'm currently an engineer at [Color Genomics](https://www.color.com/). Previously, I was at [Operator](https://operator.com), and before that, [LinkedIn](https://linkedin.com) and [UC Berkeley](https://berkeley.edu). A copy of my resume can be found [here]({% link resume.md %}).
 
 Some of my interests include learning, photography, fitness, and foreign languages.
 
@@ -16,7 +16,7 @@ Here are some things I'm doing right now.
 
 - I have been taking an online video chat-based Chinese class in order to study the language more efficiently.
 - A friend and I have been working on a mobile web app for [Project Homeless Connect](https://projecthomelessconnect.org/), an SF-based nonprofit.
-- I'm currently reading [Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman. Recently, I finished [Doing Good Better](https://smile.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660) by William MacAskill, from which I learned a lot about the effective altruism movement, and why we should think carefully about what charities we donate to.
+- I'm currently re-reading [Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman. Recently, I finished [Doing Good Better](https://smile.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660) by William MacAskill, from which I learned a lot about the effective altruism movement, and why we should think carefully about what charities we donate to.
 
 #### Projects
 

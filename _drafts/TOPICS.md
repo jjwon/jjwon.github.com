@@ -1,0 +1,3 @@
+- figuring out what you want in a new job
+- important of making money when pursuing a social venture
+- doing good better
