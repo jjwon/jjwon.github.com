@@ -14,16 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jason Won
-email: hello [at] jjwon [dot] com
+description: Jason Won's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jjwon.com"
-github_username: jjwon0
-instagram_username: jjwon0
 lang: en
 google_analytics: UA-57980274-1
-
 header_pages:
   - About
+  - Contact
 
 # Build settings
 markdown: kramdown

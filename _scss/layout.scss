@@ -10,6 +10,10 @@ body {
   color: $text-color;
 }
 
+strong {
+  color: $header-color;
+}
+
 main {
   @extend %centered;
   padding-bottom: 80px;
