@@ -10,6 +10,12 @@ body {
   color: $text-color;
 }
 
+blockquote {
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 5px solid $accent-color;
+}
+
 strong {
   color: $header-color;
 }
