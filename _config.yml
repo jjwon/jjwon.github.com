@@ -24,6 +24,8 @@ header_pages:
   - Contact
 
 # Build settings
+gems:
+    - jekyll-sitemap
 markdown: kramdown
 sass:
   sass_dir: _scss
