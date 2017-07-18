@@ -23,6 +23,17 @@ Achieved a 3.85/4.00 overall GPA. Sample coursework:
 
 ### Experience
 
+**Software Engineer** at Color, Feb 2017 - present
+
+Color is a service enabling people to make better decisions about their health, based on their genetic information.
+
+Working on a team primarily building out features for the Color Provider Platform, a web app which is used by providers to order and manage Color tests for their patients. Some highlights:
+
+- Built a framework allowing tests to be written using factories alongside the existing fixtures framework, ultimately resulting in a couple of bug fixes as well as increased unit test coverage
+- Built a feature allowing Color to accept insurance as a payment method
+- Set up a process for autoformatting code to enforce a consistent style across the codebase
+- Currently holding the record for fastest eng to go from starting to shipping a product feature
+
 **Software Engineer** at Operator, Oct 2015 - Jan 2017
 
 Worked on everything except mobile. Some highlights:
@@ -40,7 +51,11 @@ Graded weekly problem sets, held office hours, and answered questions on Piazza 
 
 Designed and developed a workfow optimization tool to simplify the process of moving and transforming data on various Hadoop clusters and databases.
 
-### Projects 
+### Projects
+
+[**Scribe**](https://scribe.pizza), Mar 2017 - present
+
+Building out an app to help people journal.
 
 [**Project Homeless Connect (PHC)**](http://bit.ly/2awwaQ8), Jun 2016 - present
 
@@ -56,8 +71,8 @@ Led a team of 5 to iterate on and complete a Rails web app for Food Shift, an Oa
 
 ### Skills
 
-**Programming**: Python, JavaScript (Angular, React, Node), HTML/CSS/Sass, Ruby on Rails
+**Programming**: Python, JavaScript (Angular, React, Node), HTML/CSS
 
 **Languages**: English, Spanish, Chinese
 
-**Other**: Photography, Cooking
+**Other**: Photography, Cooking, Climbing
