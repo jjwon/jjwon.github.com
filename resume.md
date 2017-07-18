@@ -53,7 +53,7 @@ Designed and developed a workfow optimization tool to simplify the process of mo
 
 ### Projects
 
-[**Scribe**](https://scribe.pizza), Mar 2017 - present
+[**Scribe**](https://www.scribe.pizza), Mar 2017 - present
 
 Building out an app to help people journal.
 
