@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Feedback"
 date: 2017-11-12
-permalink: /job-hunting/motivation
+permalink: /personal-feedback
 ---
 
 At [Color](https://www.color.com), we've recently been working on our first attempt at performance reviews. And by we, I mostly mean my manager and our new HR coordinator, but everyone is encouraged to offer feedback so we can create a useful and meaningful feedback loop. It's my first time actually getting any sort of formal, professional feedback, since at Operator, the team was very small and we were light on internal process.
