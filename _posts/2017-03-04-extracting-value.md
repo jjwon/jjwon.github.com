@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extracting Value as an Employee"
-date: 2017-03-04 13:55:00 -0800
+date: 2017-03-04
 permalink: /extracting-value-as-an-employee/
 ---
 
