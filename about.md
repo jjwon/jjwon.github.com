@@ -14,9 +14,8 @@ Some of my interests include learning, fitness, and effective altruism.
 
 Here are some things I'm doing right now.
 
-- I have been taking an online video chat-based Chinese class in order to study the language more efficiently.
 - I've been working on a [mobile app](https://www.scribe.pizza) to help people journal.
-- I'm currently reading [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) by Douglas Hofstadter. Recently, I finished [The Music of the Primes](https://en.wikipedia.org/wiki/The_Music_of_the_Primes) by Marcus du Sautoy, and [Shoe Dog](https://www.gatesnotes.com/Books/Shoe-Dog) by Phil Knight.
+- I'm currently reading [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) by George Pólya. Recently, I finished [The Music of the Primes](https://en.wikipedia.org/wiki/The_Music_of_the_Primes) by Marcus du Sautoy, and [Shoe Dog](https://www.gatesnotes.com/Books/Shoe-Dog) by Phil Knight.
 
 #### Projects
 
