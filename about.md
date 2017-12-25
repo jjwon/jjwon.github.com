@@ -8,7 +8,7 @@ I build stuff that hopefully makes people's lives better. ᕕ( ᐛ )ᕗ
 
 #### About
 
-I'm currently an engineer at [Color Genomics](https://www.color.com/). Previously, I was at [Operator](https://operator.com), and before that, [LinkedIn](https://linkedin.com) and [UC Berkeley](https://berkeley.edu). A copy of my resume can be found [here]({% link resume.md %}).
+I'm currently an engineer at [Color Genomics](https://www.color.com/). Previously, I was at [Operator](https://operator.com), and before that, [LinkedIn](https://linkedin.com) and [UC Berkeley](https://berkeley.edu). A copy of my resume can be found [here]({% link resume.pdf %}).
 
 Some of my interests include learning, fitness, and effective altruism.
 
